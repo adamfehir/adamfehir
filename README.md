@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi I'm Adam 👋
 
-<!--
-**adamfehir/adamfehir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Software Engineering student at Macquarie University  
+📘 Learning: C, Processing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamfehir&show_icons=true&theme=tokyonight&hide=stars,prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfehir&layout=compact&theme=tokyonight)
+
+---
