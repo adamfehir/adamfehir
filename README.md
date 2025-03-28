@@ -1,6 +1,6 @@
 # Hi I'm Adam 👋
 
-🎓 First-year Software Engineering student at Macquarie University  
+🎓  Software Engineering @ Macquarie University  
 📘 Learning: C, Processing
 
 ---
